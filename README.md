@@ -1,2 +1,3 @@
-# youtube-node-mongo
-A test repo to configure nodejs and mongodb 
+# Git-Hub-demo
+This is my first Git Repository.
+Author - Priyanshu Bhatnagar
